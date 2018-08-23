@@ -1,0 +1,9 @@
+# LYFTestAli2
+ok，上一次我给大家用一种方法实现了简单的支付宝首页样式。 上一篇文章：https://www.jianshu.com/p/658f2aeafa64 
+那篇文章里面方法有个一弊端，就是UITableView的高度和Cell的总高度一致，也就是UITableView不能滑动，UITableViewCell的复用机制页就不起作用了。哈哈，懒人版的支付宝首页样式是可以这样完成的。 
+
+这里就给大家讲解一种新的仿支付宝样式的方法，这种方法只是使用一个UITableView，而且不用用两个UIScrollView嵌套，很方便而且UITableViewCell的复用机制也可以放心的使用。
+那篇文章里面方法有个一弊端，就是UITableView的高度和Cell的总高度一致，也就是UITableView不能滑动，UITableViewCell的复用机制页就不起作用了。哈哈，懒人版的支付宝首页样式是可以这样完成的。  这里就给大家讲解一种新的仿支付宝样式的方法，这种方法只是使用一个UITableView，而且不用用两个UIScrollView嵌套，很方便而且UITableViewCell的复用机制也可以放心的使用。
+
+简书：
+https://www.jianshu.com/p/b44a9c633a86
